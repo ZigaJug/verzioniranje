@@ -1,0 +1,29 @@
+commit ddbd7972b9e40ff6bb7ca7098f2ca50713868c3a
+Author: =JugZ <=ziga.jug@student.um.si>
+Date:   Mon Apr 13 00:59:46 2020 +0200
+
+    Resolved merge conflict by incorporating both suggestions.
+
+commit ba89b99773f7b28b9d805b2ba8573fddae550765
+Author: =JugZ <=ziga.jug@student.um.si>
+Date:   Sun Apr 12 21:37:16 2020 +0200
+
+    dodajanje mape students tocka štiri commit
+
+commit 01d936e8504f04fbeaf84ed7641471326ee486c9
+Author: mlaky88 <uros88mlakar@gmail.com>
+Date:   Sat Mar 28 10:08:20 2020 +0100
+
+    Update README.md
+
+commit 7b355a9156056041a66741fb2165155e306622b2
+Author: mlaky88 <uros88mlakar@gmail.com>
+Date:   Mon Mar 2 15:31:33 2020 +0100
+
+    Create print.sh
+
+commit 21b8489fbd878037584488d636f0faec53f7d27b
+Author: mlaky88 <uros88mlakar@gmail.com>
+Date:   Mon Mar 2 15:29:00 2020 +0100
+
+    Initial commit
